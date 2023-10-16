@@ -36,8 +36,8 @@ If you want to have a compact layout, just you need to add `layout=compact` as a
 ## Options
 |    Name    |           Description           |        Default value       |
 | ---------- | ------------------------------- | -------------------------- |
-| userID     | Your StackOverflow userID            | REQUIRED                |
-| site     | Your StackOverflow userID            | REQUIRED                |
+| userID     | Your userID                     | REQUIRED                |
+| site       | Stack Exchange site             | REQUIRED                |
 | theme      | Theme of the StackOverflow card (light or dark)      | light     |
 | layout     | Layout of the StackOverflow card (compact or default) | default |    
 
