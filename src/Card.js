@@ -59,7 +59,7 @@ const Card = async (data, site, theme, layout) => {
         font-family="Arial-BoldMT, Arial" font-size="15" font-weight="bold">
         <tspan x=".5" y="14">${data.display_name}</tspan>
       </text>
-      <image x="85" y="190" width="40" height="40" xlink:href="${siteImageBase64}"/>
+      <image x="80" y="185" width="50" height="50" xlink:href="${siteImageBase64}"/>
       <text transform="translate(48 231)" stroke-linecap="square" stroke-linejoin="bevel" fill="${isDark ? '#F2F2F3' : '#0f0f0f'}"
         font-family="ArialMT, Arial" font-size="16">
         <tspan x="${-data.reputation.toString().length * 2}" y="14">${data.reputation.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',')}</tspan>
