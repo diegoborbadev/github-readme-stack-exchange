@@ -4,6 +4,7 @@
   <img width="120px" src="stackexchange.svg" />
   <h2 align="center">GitHub Readme Stack Exchange</h2>
   <p align="center">Show your status for any Stack Exchange site on your READMEs!</p>
+  <p align="center">Based on: <i><a href="https://github.com/omidnikrah/github-readme-stackoverflow">github-readme-stackoverflow</a></i> by <a href="https://github.com/omidnikrah" >omidnikrah</a></p>
 </p>
 
 <br>
