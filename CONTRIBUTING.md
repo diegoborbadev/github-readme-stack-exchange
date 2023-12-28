@@ -43,7 +43,7 @@ $ git push origin feature-branch
 ```
 ### Submit a Pull Request:
 
-- Open a pull request from your forked repository to the main repository's master branch.
+- Open a pull request from your forked repository to `dev` branch.
 - Provide a clear title and description for your pull request, explaining the purpose and changes made.
 - Cite any relevant issues and pull requests.
 
